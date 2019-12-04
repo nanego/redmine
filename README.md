@@ -1,4 +1,7 @@
-= Redmine
+Redmine
+========
+
+[![Build Status](https://travis-ci.com/nanego/redmine.svg?branch=master)](https://travis-ci.com/nanego/redmine)
 
 Redmine is a flexible project management web application written using Ruby on Rails framework.
 

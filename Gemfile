@@ -79,6 +79,7 @@ group :test do
   gem 'mocha', '>= 1.4.0'
   gem "simplecov", "~> 0.17.0", :require => false
   gem "ffi", platforms: [:mingw, :x64_mingw, :mswin]
+  gem "pg", "~> 1.1.4"
   # For running system tests
   gem 'puma'
   gem "capybara", (RUBY_VERSION < "2.4" ? "~> 3.15.1" : "~> 3.29.0")
